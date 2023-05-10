@@ -1,0 +1,145 @@
+/*Courses*/
+.course-content {
+  margin-left: 250px; 
+  padding: 10px;
+}
+.course-content h2{
+ position: relative;
+}
+
+.courses {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+
+.course {
+  width: 500px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: black solid;
+}
+.course h2{
+ position: relative;
+ bottom:60px;
+}
+.course-image {
+  height: 200px;
+  width: 200px;
+  background-color: #ccc;
+  margin-right: 10px;
+  background-image: url("C:\Users\Nadrin\Documents\tuts\dojo-blog\src\e-learning.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.desc{
+bottom:50px;
+position: relative;
+}
+.progress {
+  height: 10px;
+  width: 15rem;
+  background-color: #ddd;
+
+  bottom:40px;
+  position: relative;
+}
+
+.progress-bar {
+  height: 100%;
+  width: 70%;
+  background-color: #4caf50;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/*completed Course*/
+.completed-content {
+
+}
+.completed-content{
+position: relative;
+}
+
+.completed-courses {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+
+.completed-container {
+width: 300px;
+margin-bottom: 20px;
+}
+
+.completed-course-image {
+height: 200px;
+width: 100%;
+background-color: #ccc;
+margin-bottom: 10px;
+}
+
+/* Sidebar */
+.sidebar {
+position: fixed;
+background-color: cornflowerblue;
+color: #fff;
+width: 250px;
+height: 100vh;
+overflow-x: hidden;
+
+}
+
+.logo img {
+position: relative;
+width: 90%;
+height: 150px;
+left: 12.5px;
+
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+li a {
+display: block;
+padding: 10px;
+border-bottom: 1px solid #fff;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #fff;
+color: #2c3e50;
+}
+
+.logout {
+position: absolute;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+
+.logout a {
+display: block;
+
+background-color:#635d5d;
+color: white;
+text-decoration: none;
+}
+
+
+/* Responsive design */
+@media (max-width: 768px) {
+.sidebar {
+width: 100%;
+}
+}
