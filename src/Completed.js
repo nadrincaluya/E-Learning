@@ -2,7 +2,7 @@
 const Completed = ({items,title}) => {
     return ( 
         <div>
-            <h1>Completed Courses</h1>
+            <h2>Completed Courses</h2>
         <div className="completed-content">
      
         <div className="completed-courses"  >

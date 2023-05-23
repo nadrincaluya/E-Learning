@@ -6,7 +6,7 @@ const Courses = ({items,title}) => {
 
     return ( 
    <div>   
-      <h1>Courses</h1>
+      <h2>Courses</h2>
    
         <div className="courses" >
            

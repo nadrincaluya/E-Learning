@@ -1,16 +1,55 @@
 {
     "CourseItems": [
       {
-        "title": "My First Blog",
+        "title": "Course 1",
         "body": "lorem ipsum...",
         "division": "Courses",
         "id": 1
       },
       {
-        "title": "Opening Party!",
+        "title": "Course 2",
+        "body": "lorem ipsum...",
+        "division": "Courses",
+        "id": 2
+      },
+      {
+        "title": "Course 3",
+        "body": "lorem ipsum...",
+        "division": "Courses",
+        "id": 3
+      },
+      {
+        "title": "Course 4",
+        "body": "lorem ipsum...",
+        "division": "Courses",
+        "id": 4
+      },
+      {
+        "title": "Course 1",
         "body": "lorem ipsum...",
         "division": "Completed",
-        "id": 2
+        "id": 5
+      }
+      ,
+      {
+        "title": "Course 2",
+        "body": "lorem ipsum...",
+        "division": "Completed",
+        "id": 6
+      }
+      ,
+      {
+        "title": "Course 3",
+        "body": "lorem ipsum...",
+        "division": "Completed",
+        "id": 7
+      }
+      ,
+      {
+        "title": "Course 4",
+        "body": "lorem ipsum...",
+        "division": "Completed",
+        "id": 8
       }
     ]
   }
