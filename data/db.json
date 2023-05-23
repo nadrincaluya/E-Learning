@@ -1,0 +1,16 @@
+{
+    "CourseItems": [
+      {
+        "title": "My First Blog",
+        "body": "lorem ipsum...",
+        "division": "Courses",
+        "id": 1
+      },
+      {
+        "title": "Opening Party!",
+        "body": "lorem ipsum...",
+        "division": "Completed",
+        "id": 2
+      }
+    ]
+  }

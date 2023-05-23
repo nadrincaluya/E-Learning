@@ -1,14 +1,17 @@
-const Courses = ({items,title,handleDelete}) => {
+const Courses = ({items,title}) => {
    // const items = props.items;
     
   // const title = props.title;
 
 
     return ( 
+   <div>   
+      <h1>Courses</h1>
    
         <div className="courses" >
+           
          {items.map((items) =>(
-      <div className="course" Key={items.id}>
+      <div className="course" key={items.id}>
       
    
       <div className="course-image"></div>
@@ -24,7 +27,7 @@ const Courses = ({items,title,handleDelete}) => {
       </div>
     ))}
     </div>
-   
+    </div>
 
   
 

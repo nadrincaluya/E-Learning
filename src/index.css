@@ -77,11 +77,12 @@ width: 300px;
 margin-bottom: 20px;
 }
 
-.completed-course-image {
+.completed-course-image{
 height: 200px;
 width: 100%;
 background-color: #ccc;
 margin-bottom: 10px;
+
 }
 
 /* Sidebar */
@@ -97,6 +98,7 @@ overflow-x: hidden;
 
 .logo img {
 position: relative;
+top:10px;
 width: 90%;
 height: 150px;
 left: 12.5px;
@@ -105,7 +107,7 @@ left: 12.5px;
 
 ul {
 list-style-type: none;
-margin: 0;
+margin: 10px;
 padding: 0;
 }
 
