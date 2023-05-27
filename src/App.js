@@ -12,6 +12,8 @@ import Login from './Login';
 import Register from './Register';
 import Overview from './CoursesPage';
 import Contents from './Contents';
+import Reviews from './Reviews';
+import FAQ from './FAQ';
 
 function App() {
   
@@ -52,6 +54,16 @@ function App() {
               <Route path="/contents">
               <Navbar/>
               <Contents/>
+             
+              </Route>
+              <Route path="/reviews">
+              <Navbar/>
+              <Reviews/>
+             
+              </Route>
+              <Route path="/faq">
+              <Navbar/>
+              <FAQ/>
              
               </Route>
             </Switch>

@@ -13,7 +13,7 @@
 }
 
 .header h3 {
-  font-size: 40px; /* Adjust the font size as desired */
+  font-size: 40px; 
 }
 .course-details {
   display: flex;
@@ -24,15 +24,15 @@
 
 
 .rating {
-  display: flex; /* Added to allow aligning stars horizontally */
+  display: flex; 
   align-items: center;
   margin-left: 10px;
 }
 
 .star {
-  width: 20px; /* Adjust the width and height of the star */
+  width: 20px;
   height: 20px;
-  background-image: url('star.png'); /* Replace 'star.png' with the path to your star image */
+  background-image: url('star.png'); 
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -49,7 +49,6 @@
 .navigation-bar {
   background-color: #f1f1f1;
 
-  /* Additional styles for navigation bar */
 }
 
 .nav-items {
@@ -69,7 +68,7 @@
 }
 
 .content {
-  /* Additional styles for content container */
+ 
 }
 
 .search-bar {

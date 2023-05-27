@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './CoursesPage.css';
 
-const Contents = () => {
+const Reviews = () => {
   const rating = 3;
   
   
@@ -59,7 +59,8 @@ const Contents = () => {
       </nav>
       <div className="content">
    
-      <h2>Add content here</h2>
+       
+    <h2>Add Reviews here</h2>
       </div>
     </div>
 
@@ -137,7 +138,7 @@ const Contents = () => {
             </li>
           </ul>
         </nav>
-     
+      ]
     <div className="content">
  
       <h2>Course Description</h2>
@@ -151,4 +152,4 @@ const Contents = () => {
   );
 };
 
-export default Contents;
+export default Reviews;
