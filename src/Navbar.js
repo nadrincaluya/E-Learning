@@ -18,7 +18,7 @@ const Navbar = () => {
       </div>
       <ul>
         <li><Link to="/ProfilePage">Profile</Link></li>
-        <li><Link to="/CoursesPage">Courses</Link></li>
+        <li><Link to="/Overview">Courses</Link></li>
         <li><Link to="/WallPage">Wall</Link></li>
       </ul>
       <div className="logout">

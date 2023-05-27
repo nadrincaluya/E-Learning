@@ -1,0 +1,82 @@
+.course-content {
+  margin-left: 250px;
+  padding: 10px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #32CD32; 
+  color: white; 
+ 
+}
+
+.header h3 {
+  font-size: 40px; /* Adjust the font size as desired */
+}
+.course-details {
+  display: flex;
+
+  flex-direction: column; 
+  align-items: flex-start;
+}
+
+
+.rating {
+  display: flex; /* Added to allow aligning stars horizontally */
+  align-items: center;
+  margin-left: 10px;
+}
+
+.star {
+  width: 20px; /* Adjust the width and height of the star */
+  height: 20px;
+  background-image: url('star.png'); /* Replace 'star.png' with the path to your star image */
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+.follow-button {
+  background-color: #1e88e5;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.navigation-bar {
+  background-color: #f1f1f1;
+
+  /* Additional styles for navigation bar */
+}
+
+.nav-items {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-items li {
+  margin-right: 10px;
+}
+
+.nav-items li a {
+  text-decoration: none;
+  color: #000;
+}
+
+.content {
+  /* Additional styles for content container */
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  margin-right: 10px;
+}
