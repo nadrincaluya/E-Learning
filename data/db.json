@@ -4,30 +4,35 @@
         "title": "Course 1",
         "body": "lorem ipsum...",
         "division": "Courses",
+        "outline":"lorem ipsum...",
         "id": 1
       },
       {
         "title": "Course 2",
         "body": "lorem ipsum...",
         "division": "Courses",
+        "outline":"lorem ipsum...",
         "id": 2
       },
       {
         "title": "Course 3",
         "body": "lorem ipsum...",
         "division": "Courses",
+        "outline":"lorem ipsum...",
         "id": 3
       },
       {
         "title": "Course 4",
         "body": "lorem ipsum...",
         "division": "Courses",
+        "outline":"lorem ipsum...",
         "id": 4
       },
       {
         "title": "Course 1",
         "body": "lorem ipsum...",
         "division": "Completed",
+        "outline":"lorem ipsum...",
         "id": 5
       }
       ,
@@ -35,6 +40,7 @@
         "title": "Course 2",
         "body": "lorem ipsum...",
         "division": "Completed",
+        "outline":"lorem ipsum...",
         "id": 6
       }
       ,
@@ -42,6 +48,7 @@
         "title": "Course 3",
         "body": "lorem ipsum...",
         "division": "Completed",
+        "outline":"lorem ipsum...",
         "id": 7
       }
       ,
@@ -49,6 +56,7 @@
         "title": "Course 4",
         "body": "lorem ipsum...",
         "division": "Completed",
+        "outline":"lorem ipsum...",
         "id": 8
       }
     ]

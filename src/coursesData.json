@@ -1,0 +1,32 @@
+[
+    {
+      "courseName": "Course Name 1",
+      "rating": 3,
+      "numRatings": 100000,
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et deserunt numquam suscipit facilis voluptate debitis. Ducimus facilis laudantium aspernatur aliquam, minus vel? Nobis fugiat illo hic asperiores esse accusamus quisquam!",
+      "outline": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et deserunt numquam suscipit facilis voluptate debitis. Ducimus facilis laudantium aspernatur aliquam, minus vel? Nobis fugiat illo hic asperiores esse accusamus quisquam!"
+      ,"profilePicture": "prof.png"
+      ,
+    "profileName": "John Doe"
+    },
+    {
+      "courseName": "Course Name 2",
+      "rating": 4,
+      "numRatings": 100000,
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et deserunt numquam suscipit facilis voluptate debitis. Ducimus facilis laudantium aspernatur aliquam, minus vel? Nobis fugiat illo hic asperiores esse accusamus quisquam!",
+      "outline": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et deserunt numquam suscipit facilis voluptate debitis. Ducimus facilis laudantium aspernatur aliquam, minus vel? Nobis fugiat illo hic asperiores esse accusamus quisquam!"
+      ,"profilePicture": "prof.png",
+      "profileName": "John Doe"
+    },
+    {
+      "courseName": "Course Name 3",
+      "rating": 5,
+      "numRatings": 100000,
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et deserunt numquam suscipit facilis voluptate debitis. Ducimus facilis laudantium aspernatur aliquam, minus vel? Nobis fugiat illo hic asperiores esse accusamus quisquam!",
+      "outline": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et deserunt numquam suscipit facilis voluptate debitis. Ducimus facilis laudantium aspernatur aliquam, minus vel? Nobis fugiat illo hic asperiores esse accusamus quisquam!"
+      ,"profilePicture": "prof.png"
+      ,
+    "profileName": "John Doe"
+    }
+  ]
+  
